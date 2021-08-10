@@ -14,5 +14,16 @@ c.	Remove element 7 from both the Sets.
 Problem -3. Create a data dictionary of 5 states having state name as key and number of covid-19 cases as values.
 a.	Print only state names from the dictionary.
 b.	Update another country and it’s covid-19 cases in the dictionary.
+# Assignment 2
 
+Problem 1 
+A. Write an equation which relates 399, 543 and 12345 
+B. “When I divide 5 with 3, I got 1. But when I divide -5 with 3, I got -2  —How would you justify it.
+
+Problem 2.  a=5,b=3,c=10.. What will be the output of the following:
+          A. a/=b
+           B. c*=5  
+           
+Problem 3. A. How to check the presence of an alphabet ‘s’ in word “Data Science” .
+           B. How can you obtain 64 by using numbers 4 and 3 .
 
