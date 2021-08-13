@@ -26,4 +26,14 @@ Problem 2.  a=5,b=3,c=10.. What will be the output of the following:
            
 Problem 3. A. How to check the presence of an alphabet ‘s’ in word “Data Science” .
            B. How can you obtain 64 by using numbers 4 and 3 .
+# Assignment 3
 
+Problem 1 What will be the output of the following (can/cannot):
+   Age1=5
+   5age=55
+   
+Problem 2  What will be the output of following (can/cannot):
+a.  Age_1=100
+b.  age@1=100
+
+Problem 3 How can you delete variables in Python ?
