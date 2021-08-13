@@ -37,3 +37,36 @@ a.  Age_1=100
 b.  age@1=100
 
 Problem 3 How can you delete variables in Python ?
+# Assignment 4
+
+Problem 1 Take a variable ‘age’ which is of positive value and check the following:
+a. If age is less than 10, print “Children”.
+b. If age is more than 60 , print ‘senior citizens’
+c. If it is in between 10 and 60, print ‘normal citizen’
+ 
+Problem 2 Find  the final train ticket price with the following conditions. 
+a. If male and sr.citizen, 70% of fare is applicable
+b. If female and sr.citizen, 50% of fare is applicable.
+c. If female and normal citizen, 70% of fare is applicable
+d. If male and normal citizen, 100% of fare is applicable
+
+Problem 3 Check whether the given number is positive and divisible by 5 or not.  
+# Assignment 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
