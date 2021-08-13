@@ -76,19 +76,20 @@ Problem 4  Write a simple user defined function that greets a person in such a w
            ii) If no message is provided, it should greet a default message ‘How are you’
            Ex: Hello ---xxxx---, How are you  -🡪 default message.
            Ex: Hello ---xxxx---, --xx your message xx---
+# Assignment 6
 
+Problem 1 
+For the dataset “Indian_cities”, 
+a. Find out top 10 states in female-male sex ratio
+b. Find out top 10 cities in total number of graduates
+c. Find out top 10 cities and their locations in respect of  total effective_literacy_rate.
 
+Problem 2 For the data set “Indian_cities”
+a. Construct histogram on literates_total and comment about the inferences
+b. Construct scatter  plot between  male graduates and female graduates
 
-
-
-
-
-
-
-
-
-
-
-
+Problem 3 For the data set “Indian_cities”
+a. Construct Boxplot on total effective literacy rate and draw inferences
+b. Find out the number of null values in each column of the dataset and delete them.
 
 
